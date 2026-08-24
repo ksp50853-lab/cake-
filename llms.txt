@@ -1,0 +1,10 @@
+# ksp50853-lab.github.io llms.txt
+
+- [404 Error Page](https://ksp50853-lab.github.io/cake-/404.html): Inform users about a 404 error and guide them back to the homepage or navigation links.
+- [Cake Menu](https://ksp50853-lab.github.io/cake-/menu.html): Showcase bakery menu with cake options for celebrations.
+- [Cake Shop Overview](https://ksp50853-lab.github.io/cake-/about.html): Promote custom cakes and baking services at The Cake Haven.
+- [Customer Testimonials](https://ksp50853-lab.github.io/cake-/testimonial.html): Showcase customer testimonials for a bakery specializing in custom cakes.
+- [Contact Us Page](https://ksp50853-lab.github.io/cake-/contact.html): Provide contact information and facilitate customer inquiries for a bakery or restaurant.
+- [Cake Inspiration Blog](https://ksp50853-lab.github.io/cake-/blog.html): Showcase various cake recipes, designs, and inspiration for celebration cakes.
+- [Cake Shop](https://ksp50853-lab.github.io/cake-/index.html): Promote and sell custom and celebration cakes from The Cake Haven in Madurai.
+- [Cake Haven](https://ksp50853-lab.github.io/cake-): Promote custom and standard cakes for celebrations and events
